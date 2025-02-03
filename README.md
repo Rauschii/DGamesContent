@@ -1,4 +1,4 @@
-This repository serves as a collection of research content for the upcoming publication (TBA) on DGAMES.
+This repository serves as a collection of research content for the upcoming publication IEEE Access on DGAMES.
 
 
 
